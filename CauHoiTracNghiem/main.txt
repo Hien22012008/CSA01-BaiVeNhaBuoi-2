@@ -1,0 +1,10 @@
+Câu 1:
+-Special methods có tên bắt đầu và kết thúc bằng hai dấu gạch dưới. Còn phương thức thông thường thì không.
+-Special methods thường được gọi tự động bởi Python trong những tình huống cụ thể. Trong khi đó, các phương thức thông thường phải được gọi một cách rõ ràng.
+
+Câu 3:
+B
+Câu 4:
+B
+Câu 5:
+C
